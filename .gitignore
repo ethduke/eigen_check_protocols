@@ -1,0 +1,24 @@
+# Exclude private keys file
+pkeys.txt
+
+# Exclude macOS system files
+.DS_Store
+
+# Exclude virtual environment folder
+venv/
+
+# Exclude Python cache files
+__pycache__/
+
+# Exclude results file
+results.json
+
+# Additional common Python ignores
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
